@@ -73,6 +73,10 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 
 - iPhone 13
 
+---
+## 📺 My Youtube Channel
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-MAKisON-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MAKisON)
 
 ### 📫 Contact
 
