@@ -1,6 +1,6 @@
 # # 👋 Hi there, I'm **MAKisON**
 
-I’m a tech enthusiast and student who enjoys being IT tech guy, web development, gaming, creative tools, and working with Linux, macOS and Windows environments.  
+I’m a tech enthusiast and student who enjoys being an IT tech guy, do web development, gaming, creative tools, and working with Linux, macOS and Windows environments.  
 This profile is where I explore, build, and test ideas for learning, fun and work too!
 
 ---
