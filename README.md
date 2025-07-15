@@ -56,22 +56,22 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 | **GPU**            | NVIDIA RTX 3060                 |
 | **RAM**            | Kingston Fury Beast DDR5 5600 MHz (32GB) |
 | **Motherboard**    | Z690 AORUS ELITE AX             |
-| **Cooling**        | NZXT Kraken Z63 Liquid Cooler   |
+| **Cooling**        | NZXT Kraken Z63 Liquid Cooler 280mm AIO |
 | **Power Supply**   | NZXT C850 Gold                  |
 | **Case**           | NZXT H7 Flow                   |
-| **Storage**        | Samsung 990 PRO 1TB (OS)          |
+| **Storage**        | Samsung 990 PRO 1TB (OS), WD-Black SN850X 1TB (Games), Kingston A200 1TB (Montage), WD-Red 4TB (stuff)       |
 
 ---
 
 ## 💻 Laptops
 
-- MacBook Pro 16" M4 Pro
+- MacBook Pro 16" M4 Pro 24GB/512GB
 
 ---
 
 ## 📱 Phones
 
-- iPhone 13
+- iPhone 13 (Blue, 128GB) 
 
 ---
 ## 📺 My Youtube Channel
