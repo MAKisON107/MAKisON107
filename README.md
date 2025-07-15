@@ -59,7 +59,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 | **Cooling**        | NZXT Kraken Z63 Liquid Cooler   |
 | **Power Supply**   | NZXT C850 Gold                  |
 | **Case**           | NZXT H7 Flow                   |
-| **Storage**        | Samsung 990 PRO 1TB             |
+| **Storage**        | Samsung 990 PRO 1TB (OS)          |
 
 ---
 
