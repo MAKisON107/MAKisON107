@@ -24,7 +24,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 #### 🎨 Creative
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A1A1A?style=for-the-badge&logo=daVinci-resolve&logoColor=00FFFF)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A1A1A?style=for-the-badge&logo=daVinci-resolve&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)
 
