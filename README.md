@@ -53,7 +53,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 | Component          | Specification                   |
 |--------------------|--------------------------------|
 | **CPU**            | Intel Core i5-12600KF           |
-| **GPU**            | NVIDIA RTX 5070 Asus Prime OC                 |
+| **GPU**            | RTX 5070 Asus Prime OC                 |
 | **RAM**            | Kingston Fury Beast DDR5 5600 MHz (32GB) |
 | **Motherboard**    | Z690 AORUS ELITE AX             |
 | **Cooling**        | NZXT Kraken Z63 Liquid Cooler 280mm AIO |
