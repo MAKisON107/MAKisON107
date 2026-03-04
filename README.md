@@ -71,7 +71,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 
 ## 📱 Phones
 
-- iPhone 13 (Blue, 128GB) 
+- iPhone 17 Pro (Deep Blue, 256GB) 
 
 ---
 ## 📺 My Youtube Channel
