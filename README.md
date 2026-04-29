@@ -8,6 +8,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 ### 📊 GitHub Stats
 
 ![MAKisON107's Stats](https://github-readme-stats.vercel.app/api?username=MAKisON107&theme=dark&show_icons=true&hide_border=false&count_private=false)
+
 ![MAKisON107's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAKisON107&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
