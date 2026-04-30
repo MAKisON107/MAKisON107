@@ -34,7 +34,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 #### ⚙️ OS'es and Environments
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-0080FF?style=for-the-badge&logo=CachyOS&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-0080FF?style=for-the-badge&logo=cachyos&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnumetaterminal&logoColor=white)
 
