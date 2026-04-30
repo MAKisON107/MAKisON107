@@ -17,7 +17,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 
 #### 💻 Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,7 @@ This profile is where I explore, build, and test ideas for learning, fun and wor
 #### ⚙️ OS'es and Environments
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-0080FF?style=for-the-badge&logo=cachyos&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-0080FF?style=for-the-badge&logo=archlinux&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnumetaterminal&logoColor=white)
 
